@@ -1,0 +1,31 @@
+/********************
+Componente menu-principal
+********************/
+.menu-principal { margin-top: 70px;
+
+}
+
+.menu-principal > .lista {list-style:none; margin-left: 220px; margin-top: -30px;
+
+			
+
+}
+
+.menu-principal > .lista > .item {display: inline; padding: 44px; font-weight: bold; font-size: 16px; 
+}
+
+.menu-principal > .lista > .item a {
+			text-decoration: none;
+			color: #FF0000;
+}
+
+
+.menu-principal > .lista > .item a:hover {
+			text-decoration: none;
+			color: #FFD700;
+}
+
+.texto1{
+	margin-left: 17%;
+	margin-right: 17%;
+}

@@ -1,0 +1,98 @@
+/********************
+Arquivo de estilos base do site
+  - Importação de folha de estilo de normalização (normalize.css)
+  - Importação de componentes do site
+  - Definição dos elementos estruturantes do site
+********************/
+@import "https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css";
+@import "menu-principal.css";
+@import "form-pesquisa.css";
+@import "destaque-artigo.css";
+@import "box-rodape.css";
+
+/*body{
+    background-color: #F5FFFA;
+}*/
+
+.cabecalho {
+
+}
+
+.logo {height: 10px !important;
+	margin: 10px;
+    
+}
+
+.texto-logo{ margin-left: 450px;
+	margin-top: -115px;
+ font-size: 42px;
+ color: red;
+ font-weight: bold;
+ font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.conteudo {
+    display: block;
+}
+
+.rodape {
+	margin-left: 17%;
+	margin-right: 17%;
+
+}
+
+.copyright {
+
+}
+
+.cor1{
+	color: #FF4500;
+}
+
+.cor2{
+	color: #00FF00;
+}
+
+.cor3{
+	color: #0000FF;
+}
+
+.cor4{
+	color: #FF00FF;
+}
+
+.cor5{
+	color: #FFFF00;
+}
+
+.cor6{
+	color: #ADFF2F;
+}
+
+.cor7{
+	color: #FF6347;
+}
+
+.cor8{
+	color: #B22222;
+}
+
+.cor9{
+	color: #C71585;
+}
+
+.cor10{
+	color: #6A5ACD;
+}
+
+.cor11{
+	color: #FF00FF;
+}
+
+.cor12{
+	color: #00FFFF;
+}
+
+.cor13{
+	color: #FFD700;
+}

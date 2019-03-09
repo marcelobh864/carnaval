@@ -1,0 +1,28 @@
+/********************
+Componente destaque-artigo
+********************/
+.destaque-artigo {
+
+}
+
+.destaque-artigo > .titulo {
+    
+}
+
+.destaque-artigo > .texto {
+
+}
+
+.imagem{
+	margin-top: 70px !important;
+}
+
+.imagem2{
+	margin-top: -95px !important;
+	margin-left: 67%;
+}
+
+.imagem3{
+	margin-top: -29px !important;
+	margin-left: 30%;
+}
